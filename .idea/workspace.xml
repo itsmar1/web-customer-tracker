@@ -9,6 +9,7 @@
     <list default="true" id="f6cdd2bd-4ece-4da2-a1b0-555492a14f32" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dell/Desktop/spring-course/web-customer-tracker/lib/mchange-commons-java-0.2.19.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;07163b25336629bcbfd993751b9f6c19&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/dell/Desktop/spring-course/web-customer-tracker/web/WEB-INF/spring-mvc-demo-servlet.xml&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/dell/Desktop/spring-course/web-customer-tracker/web/resources/css",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "07163b25336629bcbfd993751b9f6c19",
+    "two.files.diff.last.used.file": "C:/Users/dell/Desktop/spring-course/web-customer-tracker/web/WEB-INF/spring-mvc-demo-servlet.xml"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\spring-course\web-customer-tracker\web\resources\css" />
       <recent name="C:\Users\dell\Desktop\spring-course\web-customer-tracker\lib" />
       <recent name="C:\Users\dell\Desktop\spring-course\web-customer-tracker\web\WEB-INF" />
     </key>
@@ -241,7 +243,7 @@
       <updated>1656852435811</updated>
       <workItem from="1656852439713" duration="6173000" />
       <workItem from="1656878637296" duration="8980000" />
-      <workItem from="1656927881411" duration="3020000" />
+      <workItem from="1656927881411" duration="3763000" />
     </task>
     <servers />
   </component>
