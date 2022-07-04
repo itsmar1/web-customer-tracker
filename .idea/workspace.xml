@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6cdd2bd-4ece-4da2-a1b0-555492a14f32" name="Changes" comment="" />
+    <list default="true" id="f6cdd2bd-4ece-4da2-a1b0-555492a14f32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/dao/CustomerDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/dell/Desktop/spring-course/web-customer-tracker/lib/mchange-commons-java-0.2.19.jar",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "spring.configuration.checksum": "07163b25336629bcbfd993751b9f6c19",
@@ -235,7 +239,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656852435811</updated>
       <workItem from="1656852439713" duration="6173000" />
-      <workItem from="1656878637296" duration="6832000" />
+      <workItem from="1656878637296" duration="8652000" />
     </task>
     <servers />
   </component>
