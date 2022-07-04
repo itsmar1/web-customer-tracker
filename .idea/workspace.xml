@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6cdd2bd-4ece-4da2-a1b0-555492a14f32" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,7 +242,7 @@
       <updated>1656852435811</updated>
       <workItem from="1656852439713" duration="6173000" />
       <workItem from="1656878637296" duration="8980000" />
-      <workItem from="1656927881411" duration="9594000" />
+      <workItem from="1656927881411" duration="10900000" />
     </task>
     <servers />
   </component>
